@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Lioil</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://linik.ml/"/>
+  <updated>2020-05-24T15:08:04.889Z</updated>
+  <id>https://linik.ml/</id>
+  
+  <author>
+    <name>Lioil</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Github Emoji 速查</title>
+    <link href="https://linik.ml/posts/13858.html"/>
+    <id>https://linik.ml/posts/13858.html</id>
+    <published>2020-04-15T10:57:21.000Z</published>
+    <updated>2020-05-24T15:08:04.889Z</updated>
+    
+    <summary type="html">
+    
+      GitHub 上的 emoji，commit 的时候喜欢前面加个 emoji 但又不怎么习惯用 Desktop 版，之后搬到博客上，方便查阅
+    
+    </summary>
+    
+    
+    
+      <category term="others" scheme="https://linik.ml/tags/others/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Coding+GitHub 双线部署</title>
+    <link href="https://linik.ml/posts/13128.html"/>
+    <id>https://linik.ml/posts/13128.html</id>
+    <published>2020-02-27T08:32:48.000Z</published>
+    <updated>2020-05-24T15:08:04.889Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;哪个孩子不想要一个流畅的博客&lt;br&gt;奈何 github 一直处于半墙状态，访问速度贼慢&lt;br&gt;所以我们可以选择境内访问走 coding（国内的平台），境外访问走 github&lt;/p&gt;
+    
+    </summary>
+    
+    
+    
+      <category term="Hexo" scheme="https://linik.ml/tags/Hexo/"/>
+    
+      <category term="教程" scheme="https://linik.ml/tags/%E6%95%99%E7%A8%8B/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Valine评论之微信提醒</title>
+    <link href="https://linik.ml/posts/22549.html"/>
+    <id>https://linik.ml/posts/22549.html</id>
+    <published>2020-02-20T06:42:29.000Z</published>
+    <updated>2020-05-24T15:08:04.889Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          
+        
+      
+    
+    </summary>
+    
+    
+    
+      <category term="Hexo" scheme="https://linik.ml/tags/Hexo/"/>
+    
+      <category term="教程" scheme="https://linik.ml/tags/%E6%95%99%E7%A8%8B/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hexo 新增友链页面</title>
+    <link href="https://linik.ml/posts/f909dd9a.html"/>
+    <id>https://linik.ml/posts/f909dd9a.html</id>
+    <published>2020-02-13T06:18:22.000Z</published>
+    <updated>2020-05-24T15:08:04.889Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;NexT 本身的友链放在侧栏，不能显示头像简介，只有链接，而且友链多了之后就显得非常乱，于是乎，我没可以新建一个页面来存放友链&lt;/p&gt;
+    
+    </summary>
+    
+    
+    
+      <category term="教程" scheme="https://linik.ml/tags/%E6%95%99%E7%A8%8B/"/>
+    
+      <category term="NexT" scheme="https://linik.ml/tags/NexT/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hexo+GitHub 静态博客搭建教程</title>
+    <link href="https://linik.ml/posts/d5003dee.html"/>
+    <id>https://linik.ml/posts/d5003dee.html</id>
+    <published>2020-02-12T04:16:55.000Z</published>
+    <updated>2020-05-24T15:08:04.889Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;https://i.loli.net/2020/02/12/kPWqXHzFxO7Tgvh.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;&lt;h1 id=&quot;前言&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#前言&quot;&gt;&lt;/a&gt; 前言&lt;/h1&gt;&lt;p&gt;2019 年 11 月 CSP Day1 当晚，发现身边大佬都在写游记，我也因此心血来潮，咕咕咕，几天之后我才开始写。同时又碰巧学长退役，看见了巨佬的博客，我的天哪，这完善程度，这流畅度，这内容的深度 emmm 不愧是巨佬，厚着脸皮求教程，要来一个链接，在教程的帮助下，折腾了好久终于有了自己的博客。现在距离建站已经过去了差不多 3,4 个月，博客越来越完善了 &lt;s&gt;(就差内容了)&lt;/s&gt;
+    
+    </summary>
+    
+    
+    
+      <category term="Hexo" scheme="https://linik.ml/tags/Hexo/"/>
+    
+      <category term="教程" scheme="https://linik.ml/tags/%E6%95%99%E7%A8%8B/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://linik.ml/posts/9408.html"/>
+    <id>https://linik.ml/posts/9408.html</id>
+    <published>2019-11-24T07:43:27.000Z</published>
+    <updated>2020-05-24T15:08:04.889Z</updated>
+    
+    <summary type="html">
+    
+      庆祝我的 Hexo 博客诞生
+    
+    </summary>
+    
+    
+    
+      <category term="Royce" scheme="https://linik.ml/tags/Royce/"/>
+    
+  </entry>
+  
+</feed>
